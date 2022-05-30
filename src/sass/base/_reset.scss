@@ -14,4 +14,10 @@ html {
 body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 1;
+	display: flex;
+	justify-content: space-around;
+	position: relative;
+	align-items: center;
+	height: 100vh;
+	background: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
 }
